@@ -97,7 +97,7 @@ button:hover{
 .profile-header{
     display: flex;
     align-items: flex-start;
-    grid-area: 25px;
+    gap: 25px;
     margin-bottom: 25px;
 }
 
