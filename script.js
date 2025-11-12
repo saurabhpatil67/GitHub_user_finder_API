@@ -58,6 +58,8 @@ async function fetchRepositories(reposUrl) {
         // Add sorting by 'updated' and descending order (latest first)
         const response = await fetch(`${reposUrl}?per_page=6&sort=updated&direction=desc`);
 
+
+        
         // this show first 6 repo
         // const response = await fetch(reposUrl + "?per_page=6");
         const repos = await response.json();
