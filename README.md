@@ -62,7 +62,7 @@ The repositories are displayed as cards that include stars, forks, language, and
 ## 🌐 Live Demo
 
 If hosted, add your live demo link here 👇  
-👉 [Live Demo](https://saurabhpatil67.github.io/github-user-finder)
+👉 [Live Demo]([https://saurabhpatil67.github.io/github-user-finder](https://saurabhpatil67.github.io/GitHub_user_finder_API/))
 
 ---
 
